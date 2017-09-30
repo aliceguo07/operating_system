@@ -1,0 +1,4 @@
+# Test case with division by zero to be detected
+#  after the child processes complete
+#
+(/ 33 (- 10 5 5))

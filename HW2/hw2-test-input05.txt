@@ -1,0 +1,3 @@
+# Test case for addition
+#
+(+ 15 8 9)

@@ -1,0 +1,4 @@
+# Test case with division by zero to be detected
+#  before the second child process is created
+#
+(/ 33 0)

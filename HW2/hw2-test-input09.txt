@@ -1,0 +1,3 @@
+# Test case for subtraction
+#
+(- 12 3 8)

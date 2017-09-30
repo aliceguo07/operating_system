@@ -1,0 +1,3 @@
+# Test case with invalid operator
+#
+(QRST 5 6)

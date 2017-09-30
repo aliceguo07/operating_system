@@ -1,0 +1,4 @@
+# Test case for addition with negative operands
+#  and a negative result
+#
+(+ 15 -8 -9)
